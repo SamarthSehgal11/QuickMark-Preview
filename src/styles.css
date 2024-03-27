@@ -1,0 +1,14 @@
+/* src/styles.css */
+.preview {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .toolbar {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-right: 5px;
+  }
